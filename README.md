@@ -1,4 +1,4 @@
-# React Native Shopping App
+# Shopping App Using React Native
 
 A Simple Shopping App built using React Native with additional components like React Native Navigation.
 
