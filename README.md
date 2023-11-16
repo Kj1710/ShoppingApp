@@ -1,13 +1,12 @@
-# React Native Tic Tac Toe
+# React Native Shopping App
 
-A simple Tic Tac Toe game built using React Native with additional components like React Native Snackbar, React Native Vector Icons, and Lottie animations.
+A Simple Shopping App built using React Native with additional components like React Native Navigation.
 
 ### Features:
 
-1. Play Tic Tac Toe with two players.
-2. Use React Native Snackbar for notifications.
-3. Integrated React Native Vector Icons for the X and O symbols.
-4. Utilize Lottie animations for game-winning effects.
+1.
+2. 
+3.
 
 ### Requirements
 
@@ -18,9 +17,9 @@ Listing the prerequisites and dependencies for the project:
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/Kj1710/TIKTAKTOE-REACTNATIVE
+git clone https://github.com/Kj1710/ShoppingApp
 2. Install the dependencies:
-npm install
+npm install or npm i
 3. Start the development server:
 npx react-native start 
 4. Run the application on your emulator or device:
@@ -30,6 +29,8 @@ npx react-native run-android
 
 For iOS:
 npx react-native run-ios
+
+### Screenshot Of The App
 
 ### Contact 
 1. Email: [Kjha7865@gmail.com]
