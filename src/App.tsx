@@ -23,14 +23,14 @@ const App = () => {
           name='Home'
           component={Home}
           options={{
-            title:"Trending Products"
+            title:"🛒 Which Cart                                      😀"
           }}
         />
          <Stack.Screen
           name='Details'
           component={Details}
           options={{
-            title:"Products"
+            title:"Details"
           }}
         />
       </Stack.Navigator>
