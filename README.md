@@ -1,4 +1,4 @@
-# Shopping App Using React Native
+# Clone Of Shopping App Using React Native
 
 A Simple Shopping App built using React Native with additional components like React Native Navigation.
 
