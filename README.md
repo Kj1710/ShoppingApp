@@ -30,7 +30,7 @@ npx react-native run-android
 For iOS:
 npx react-native run-ios
 
-### Screenshot Of The App
+### ScreenShot Of The App
 
 ### Contact 
 1. Email: [Kjha7865@gmail.com]
