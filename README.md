@@ -19,9 +19,9 @@ Listing the prerequisites and dependencies for the project:
 1. Clone the repository:
 git clone https://github.com/Kj1710/ShoppingApp
 2. Install the dependencies:
-npm install or npm i
+  npm install or npm i
 3. Start the development server:
-npx react-native start 
+  npx react-native start 
 4. Run the application on your emulator or device:
 
 For Android:
