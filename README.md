@@ -31,6 +31,12 @@ For iOS:
 npx react-native run-ios
 
 ### ScreenShot Of The App
+![1](https://github.com/Kj1710/ShoppingApp/assets/112983519/76eef6cb-a74c-4c30-8926-bb1ad40d412a)
+![2](https://github.com/Kj1710/ShoppingApp/assets/112983519/b694b657-87d6-42df-9934-1673d9f419d0)
+![3](https://github.com/Kj1710/ShoppingApp/assets/112983519/a438d558-2660-4b9a-8a59-ab4bd328f61c)
+
+
+
 
 ### Contact 
 1. Email: [Kjha7865@gmail.com]
